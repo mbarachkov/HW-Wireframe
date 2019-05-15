@@ -32,17 +32,30 @@ h1, p {
 #nav {
     background: #ebebeb;
     color: #777;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
 }
 #section {
-    width: 495px;
+    width: 495px;   
+    padding: 20px; 
+    float: left;
+    margin-bottom: 20px;
 }
 #aside {
+    background: #ebebeb;
+    color: #777;
+    margin-bottom: 20px;
 
 }
 #h1h2h3 {
+    background: #ebebeb;
+    color: #777;
 
 }
 #soloP {
+    background: #ebebeb;
+    color: #777;
     
 }
 
