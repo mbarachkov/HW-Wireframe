@@ -34,35 +34,41 @@ body {
     background-color: #eee;
     text-align: center;
     z-index: 2;
-    height: 260px;
+    height: 270px;
 }
 #aside {
     float: right;
     width: 400px;
     background-color: #eee;
     text-align: center;
-    height: 260px;
+    height: 270px;
     margin-bottom: 20px;
 }
 #article {
     background-color: #999;
     width: 525px;
-    height: 190px;
+    height: 200px;
     z-index: 1; 
     margin-left: 10px;
+    margin-top: 25px;
+    padding: 10px;
+    /* line-height: 10px; */
 }
 #h1h2h3 {
     background-color: #eee;
-    width: 500px;
+    width: 480px;
     margin-left: 13px;
     height: 50px;
+    padding: 1px;
     text-align: center;
+    margin-bottom: 10px;
 }
 #soloP {
     background-color: #eee;
-    width: 500px;
+    width: 480px;
     height: 50px;
     margin-left: 13px;
+    padding: 1px;
 
 }
 #footer {
